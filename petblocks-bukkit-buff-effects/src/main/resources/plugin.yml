@@ -1,0 +1,6 @@
+name: PetBlocks-Addon-BuffEffects
+version: 1.0
+author: Shynixn
+main: com.github.shynixn.petblocks.bukkit.addon.buffeffects.PetBlocksPotionAddonPlugin
+softdepend: [PetBlocks]
+commands:

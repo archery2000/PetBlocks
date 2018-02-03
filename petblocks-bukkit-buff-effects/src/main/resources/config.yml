@@ -1,0 +1,60 @@
+#######################################################################
+#                          PetBlocks-Addon-BuffEffects                #
+# 		            	   by Shynixn							      #
+#######################################################################
+
+effects:
+  '1':
+    '1':
+      enabled: true
+      type: 1
+      duration: 999999
+      amplifier: 0
+      ambient: true
+      particles: false
+    '2':
+      enabled: true
+      type: 21
+      duration: 999999
+      amplifier: 3
+      ambient: false
+      particles: true
+  '2':
+    '1':
+      enabled: true
+      type: 16
+      duration: 999999
+      amplifier: 0
+      ambient: false
+      particles: false
+
+###############
+# PotionEffect list
+###############
+# 1 SPEED
+# 2 SLOW
+# 3 FAST_DIGGING
+# 4 SLOW_DIGGING
+# 5 INCREASE_DAMAGE
+# 6 HEAL
+# 7 HARM
+# 8 JUMP
+# 9 CONFUSION
+# 10 REGENERATION
+# 11 DAMAGE_RESISTANCE
+# 12 FIRE_RESISTANCE
+# 13 WATER_BREATHING
+# 14 INVISIBILITY
+# 15 BLINDNESS
+# 16 NIGHT_VISION
+# 17 HUNGER
+# 18 WEAKNESS
+# 19 POISON
+# 20 WITHER
+# 21 HEALTH_BOOST
+# 22 ABSORPTION
+# 23 SATURATION
+# 24 GLOWING
+# 25 LEVITATION
+# 26 LUCK
+# 27 UNLUCK

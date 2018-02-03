@@ -13,6 +13,7 @@
         <module>petblocks-bukkit-api</module>
         <module>petblocks-bukkit-plugin</module>
         <module>petblocks-bukkit-lib</module>
+        <module>petblocks-bukkit-buff-effects</module>
     </modules>
     <version>6.5.0</version>
     <packaging>pom</packaging>
